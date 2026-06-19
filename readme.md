@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm code-buildo 🛠️</h1>
+<h1 align="center">Hi, I'm Senior Fullstak AI Dev 🛠️</h1>
 
 <p align="center">
   <b>Full Stack &amp; AI Engineer</b> · 10 years shipping production systems<br/>
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/code-buildo"><img src="https://img.shields.io/badge/GitHub-code--buildo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/codebuild-ro"><img src="https://img.shields.io/badge/GitHub-code--buildo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/Open_to-Collaboration-2EA44F?style=for-the-badge" alt="Open to collaboration"/>
 </p>
 
