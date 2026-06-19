@@ -61,8 +61,9 @@ It's widening the gap between senior and junior engineers more than it's flatten
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-buildo&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-buildo&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" height="160"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Building+systems+that+survive+production;Full+Stack+%C2%B7+AI%2FLLM+%C2%B7+On-chain;Problem-first%2C+not+tool-first" alt="Typing tagline"/>
 </p>
 
-<p align="center"><sub>Building systems that hold up — one shipped feature at a time.</sub></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="" width="100%"/>
+</p>
