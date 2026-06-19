@@ -131,6 +131,6 @@ AI tools are creating a **productivity gap** between senior and junior developer
 
 **⚡ Building robust solutions, one line of code at a time**
 
-⭐️ From [code-buildo](https://github.com/code-buildo)
+⭐️ From [codebuild-ro](https://github.com/codebuild-ro)
 
 </div>
